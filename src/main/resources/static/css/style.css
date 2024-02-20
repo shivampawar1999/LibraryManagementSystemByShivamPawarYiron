@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #e2e2e2;
+	
+}
+
+/* Admin Registration Form */
+.my-card {
+	padding: 20px;
+	background: #FFFFFF;
+}
+
+.img-with-bg {
+	
+	background-image: url("/images/background7.jpg");
+	background-position: center; /* Adjust as needed */
+	background-repeat: no-repeat;
+	/* Or other options like 'cover' or 'repeat' */
+	background-size: cover; /* Or scale as needed */
+	
+}
+
+.error {
+            color: red;
+            text-align: center;
+        }

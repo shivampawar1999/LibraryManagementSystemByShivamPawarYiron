@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.bg-image {
+	
+	background-image: url("/images/background4.jpg");
+	background-position: center; /* Adjust as needed */
+	background-repeat: no-repeat;
+	/* Or other options like 'cover' or 'repeat' */
+	background-size: cover; /* Or scale as needed */
+	
+}
